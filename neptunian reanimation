@@ -97,7 +97,7 @@ InstantAttach("Torso")
 Align(Character['Pal Hair'].Handle,Reanim['Left Leg'])
 Character['MeshPartAccessory'].Handle.AccessoryWeld:Remove()
 Character['MeshPartAccessory'].Handle.Transparency = 1
-Character['MeshPartAccessory'].Handle.Transparency = 0
+Reanim['MeshPartAccessory'].Handle.Transparency = 0
 Align(Character['MeshPartAccessory'].Handle,Reanim['MeshPartAccessory'].Handle)
 
 
