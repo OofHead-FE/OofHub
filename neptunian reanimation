@@ -5,7 +5,7 @@ local ct = {}
 local te = table.insert
 
 HumanDied=false
---sorry nexo for stealing the netless
+--sorry nexo for stealing the netless lol
 for i,v in next, char:GetDescendants() do 
 if v:IsA('BasePart') then
 te(ct,srv.Heartbeat:Connect(function()
