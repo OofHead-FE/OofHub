@@ -80,6 +80,8 @@ local Name2 = Character:WaitForChild("Pal Hair")
 
 Character["Right Arm"].Transparency = 0
 
+Reanim['Left Leg'].Transparency = 0
+Character['Pal Hair'].Handle.Transparency = 1
 
 Character.Torso['Right Shoulder']:Destroy()
 Character.Torso['Left Shoulder']:Destroy()
