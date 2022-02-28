@@ -78,7 +78,7 @@ end)
 --Aligning
 local Name2 = Character:WaitForChild("Pal Hair")
 
-Character["Right Arm"].Transparency = 0
+Character["Left Leg"].Transparency = 1
 
 Reanim['Left Leg'].Transparency = 0
 Character['Pal Hair'].Handle.Transparency = 1
